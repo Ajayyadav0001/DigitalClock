@@ -14,9 +14,12 @@ This is a simple Digital Clock application built using HTML, CSS, and JavaScript
 - Responsive and visually styled using CSS
 - Lightweight and easy to integrate into other web projects
 
-## Demo
+## 🎮 Demo
 
-![Digital Clock Screenshot](screenshot.png) *(Add your actual screenshot here)*
+> [Live Demo](https://ajayyadav0001.github.io/DigitalClock/)
+(Swap this link with your deployed site, e.g., GitHub Pages or Netlify)
+
+---
 
 ## How to Use
 
@@ -32,6 +35,10 @@ This is a simple Digital Clock application built using HTML, CSS, and JavaScript
 * HTML
 * CSS
 * JavaScript
+
+## Output
+![Screenshot 2025-05-08 185634](https://github.com/user-attachments/assets/4bfdbb70-f14a-4363-a9f3-ccd8e1f201c2)
+
 
 ## Author
 
